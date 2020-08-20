@@ -27,6 +27,7 @@ namespace IIS.project2
 
     //  *** End programmer edit section *** (ЗУ CustomAttributes)
     [AutoAltered()]
+    [Caption("Земельный участок")]
     [AccessType(ICSSoft.STORMNET.AccessType.none)]
     [View("ЗемельныйУчастокE", new string[] {
             "primarykey as \'Primarykey\'"})]

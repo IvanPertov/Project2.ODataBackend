@@ -32,7 +32,7 @@ CREATE TABLE "Договор"
 
 	"ДатаОкончания" DATE NULL,
 
-	"Состояние" String NULL,
+	"Состояние" NVARCHAR2(255) NULL,
 
 	 PRIMARY KEY ("primaryKey")
 ) ;

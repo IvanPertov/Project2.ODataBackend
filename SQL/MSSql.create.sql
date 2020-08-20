@@ -29,7 +29,7 @@ CREATE TABLE [Договор] (
 
 	 [ДатаОкончания] DATETIME  NULL,
 
-	 [Состояние] String  NULL,
+	 [Состояние] VARCHAR(255)  NULL,
 
 	 PRIMARY KEY ([primaryKey]))
 

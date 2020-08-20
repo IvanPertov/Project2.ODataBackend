@@ -21,9 +21,9 @@ CREATE TABLE [Договор] (
 
 	 [primaryKey] UNIQUEIDENTIFIER  NOT NULL,
 
-	 [primarykey] uniqueidentifier  NULL,
-
 	 [Идентификатор] INT  NULL,
+
+	 [primarykey] uniqueidentifier  NULL,
 
 	 [ДатаНачала] DATETIME  NULL,
 

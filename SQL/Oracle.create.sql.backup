@@ -24,9 +24,9 @@ CREATE TABLE "Договор"
 
 	"primaryKey" RAW(16) NOT NULL,
 
-	"primarykey" RAW(16) NULL,
-
 	"Идентификатор" NUMBER(10) NULL,
+
+	"primarykey" RAW(16) NULL,
 
 	"ДатаНачала" DATE NULL,
 
